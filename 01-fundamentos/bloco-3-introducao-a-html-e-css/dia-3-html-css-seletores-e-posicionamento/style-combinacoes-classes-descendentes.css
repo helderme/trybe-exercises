@@ -38,3 +38,6 @@ ul li:nth-child(4) > a:hover{
 ul li:nth-child(5) > a:hover{
     color:green;
 }
+.bg-pink{
+    background-color:pink;
+}
