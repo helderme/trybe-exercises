@@ -47,4 +47,29 @@ else{
     console.log("zero, não é positivo nem negativo, mas sim neutro.");
 }
 
+const anguloA = 60;
+const anguloB = 60;
+const anguloC = -1;
+
+if( ( anguloA < 0 || anguloB < 0 || anguloC < 0 ) ){
+    console.log("Erro, Ângulo inválido!")
+}
+else if( (anguloA + anguloB + anguloC) == 180 ){
+    console.log(true)
+}
+else{
+    console.log(false)
+}
+
+let peca = "biSpo"
+console.log(peca.toLowerCase()); /* https://www.w3schools.com/jsref/jsref_tolowercase.asp */
+
+switch(peca){
+    case bispo
+}
+
+
+
+
+
 
