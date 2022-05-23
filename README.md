@@ -8,18 +8,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: Unix & Bash
 
-- :heavy_check_mark: 1-3: _Unix & Shell- Part 1_
-- :heavy_check_mark: 1-4: _Unix & Shell- Part 2_
+- :heavy_check_mark: 1-3: Fundamentos do Desenvolvimento Web
+- :heavy_check_mark: 1-3: Introdução - Unix & Shell
+- :heavy_check_mark: 1-3: Unix & Bash - Parte 1
+- :heavy_check_mark: 1-4: Unix & Bash - Parte 2
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: Git, GitHub e Internet
 
 - :heavy_check_mark: 2-1: _O que é e para que serve?_
 - :heavy_check_mark: 2-2: _Entendendo os comandos_
 - :heavy_check_mark: 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução - HTML & CSS
+##### Bloco 3: Introdução à HTML e CSS
 
 - :heavy_check_mark: 3-1: _HTML & CSS - Estruturas de página_
 - :heavy_check_mark: 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +29,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :heavy_check_mark: 3-4: _HTML Semântico_
 - :heavy_check_mark: 3-5: _[Projeto - HTML & CSS](https://github.com/tryber/sd-019-a-project-lessons-learned/tree/helder-medeiros-lessons-learned)_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
 - :heavy_check_mark: 4-1: _JavaScript - Primeiros passos_
 - :heavy_check_mark: 4-2: _JavaScript - Array e loop For_
@@ -35,7 +37,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :heavy_check_mark: 4-4: _JavaScript - Objetos e funções_
 - :heavy_check_mark: 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
 - :heavy_check_mark: 5-1: _JavaScript - DOM e seletores_
 - :heavy_check_mark: 5-2: _JavaScript - Trabalhando com elementos_
@@ -56,20 +58,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :heavy_check_mark: 6-5: _CSS Responsivo - Mobile First_
 - :heavy_check_mark: 6-6: _[Projeto - Trybewarts]()_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
 - :heavy_check_mark: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - :heavy_check_mark: 7-2: _JavaScript ES6 - Objects_
 - :heavy_check_mark: 7-3: _Testes unitários em JavaScript_
 - :heavy_check_mark: 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- :heavy_check_mark: 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- :heavy_check_mark: 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- :heavy_check_mark: 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- :heavy_check_mark: 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- :heavy_check_mark: 8-5: _[Projeto - Zoo functions]()_
+- :heavy_check_mark: 8-1: JavaScript ES6 - Introdução a Higher Order Functions
+- :heavy_check_mark: 8-2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- :heavy_check_mark: 8-3: JavaScript ES6 - Higher Order Functions - map e filter
+- :heavy_check_mark: 8-4: JavaScript ES6 - Higher Order Functions - reduce
+- :heavy_check_mark: 8-5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- :heavy_check_mark: 8-6: _[Projeto - Zoo functions]()_
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
@@ -119,7 +122,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :heavy_check_mark: 15-3: Usando o Redux no React - Prática
 - :heavy_check_mark: 15-4: Usando o Redux no React - Actions Assíncronas
 - :heavy_check_mark: 15-5: Testes em React-Redux
-- :heavy_check_mark: 15-6: Projeto - _[Projeto - Trybe Wallet]()_
+- :heavy_check_mark: 15-6: _[Projeto - Trybe Wallet]()_
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
@@ -137,5 +140,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :heavy_check_mark: 18-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end 
+
+##### Bloco 19: Docker: Utilizando Containers
+
+- :heavy_check_mark: 19-1: Introdução - Back-end
+- :heavy_check_mark: 19-1: Utilizando Containers - Docker
+- :heavy_check_mark: 19-2: Manipulação e Criação de Imagens no Docker
+- :heavy_check_mark: 19-3: Orquestrando Containers com Docker Compose
+- :heavy_check_mark: 19-4: _[Projeto - Docker Todo-List]()_
 
 # [...]
